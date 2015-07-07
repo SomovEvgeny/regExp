@@ -20,6 +20,9 @@ public class Main {
         Matcher matcher = pattern.matcher(str);
         return  matcher.matches();
     }
+    public void newmethod (){
+
+    }
 
 
 
